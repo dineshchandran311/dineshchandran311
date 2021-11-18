@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @dineshcd311
 - 👀 I’m interested in web development
+- 🌱 I’m currently sophomore in PSG Tech, Coimbatore, Tamil Nadu, Indi
