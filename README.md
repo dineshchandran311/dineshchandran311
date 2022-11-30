@@ -5,7 +5,7 @@
 
   <h1 align="center">Hello Everyone, This is <a href="https://github.com/dineshcd311">Dinesh Chandran!<a/><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-  I'm a full-stack web developer from India, who loves learning new technologies. Currently, I am a sophomore at the PSG College of Technology in Coimbatore, Tamil Nadu, India.   I am also interested in collaborating on web development projects.
+  I'm a full-stack web and mobile developer from India. Currently, I am a senior at the PSG College of Technology in Coimbatore, Tamil Nadu, India. I am also interested in collaborating on web and mobile development projects.
 
 
   
@@ -21,6 +21,8 @@
   ![](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![](https://img.shields.io/badge/Flutter-00599C?style=for-the-badge&logo=flutter&logoColor=white)
+  ![](https://img.shields.io/badge/Dart-025E8C?style=for-the-badge&logo=dart&logoColor=white)
   ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
   ![](https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white)
   ![](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
