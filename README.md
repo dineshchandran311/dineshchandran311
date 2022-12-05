@@ -34,7 +34,7 @@
    <h2 align="center">Connect with me!</h2>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/dinesh-c-46ba49201/">
+    <a href="https://www.linkedin.com/in/dinesh-chandran-46ba49201/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
     </a>
     <a href="https://www.instagram.com/dinesh.chandran_/">
